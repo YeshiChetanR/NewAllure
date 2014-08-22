@@ -24,7 +24,7 @@ public class TestClass {
 	public void test3()
 	{
 		System.out.println("Inside test three");
-		//Assert.assertEquals("1", "0");
+		Assert.assertEquals("1", "0");
 	}
 	
 	@Test
@@ -48,7 +48,7 @@ public class TestClass {
 	public void test7()
 	{
 		System.out.println("Inside test seven");
-		//Assert.assertEquals("1", "0");
+		Assert.assertEquals("1", "0");
 	}
 	
 	@Test
@@ -56,4 +56,9 @@ public class TestClass {
 	{
 		System.out.println("Inside test eight");
 	}
+	/*@Test
+	public void test9()
+	{
+		System.out.println("Inside test nine");
+	}*/
 }
