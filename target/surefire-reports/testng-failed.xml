@@ -6,6 +6,7 @@
       <class name="com.atmecs.com.atmecs.ReportCreator.TestClass">
         <methods>
           <include name="test7"/>
+          <include name="test3"/>
         </methods>
       </class> <!-- com.atmecs.com.atmecs.ReportCreator.TestClass -->
     </classes>
